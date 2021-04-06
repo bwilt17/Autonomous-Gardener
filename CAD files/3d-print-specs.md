@@ -1,4 +1,4 @@
-#3D Print Specifications
+# 3D Print Specifications
 
 Printer: Kingroon KP3  
 Filament Type: PLA 
