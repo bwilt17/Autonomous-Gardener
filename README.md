@@ -13,4 +13,5 @@ A part for this project to distribute water around the pot was designed in Solid
 
 (UPDATE: 4/5/21) Part design needs to be modified to have longer stakes for better soil penetration OR soil level in final potted plant used must be specified to be no lower than approx. 1/2" from the top edge of the pot. 
 
-![Part Image](/images/partSW-1.png)
+<img src="https://github.com/bwilt17/Autonomous-Gardener/blob/main/images/partSW-1.PNG" width="450" />
+<img src="https://github.com/bwilt17/Autonomous-Gardener/blob/main/images/partSW-2.PNG" width="450" />
