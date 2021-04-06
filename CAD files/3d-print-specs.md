@@ -6,7 +6,9 @@ Filament Type: PLA
 
 Filament Brand: Hatchbox
 
-Printing Temp: 190 C
+Nozzle Temp: 190 C
+
+Bed Temp: 60 C
 
 Printing Speed: 30 mm/s
 
